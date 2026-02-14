@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CFXP\Core\Hashing;
+namespace Denosys\Hashing;
 
 /**
  * Contract for hashing implementations.

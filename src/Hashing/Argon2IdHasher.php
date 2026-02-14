@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CFXP\Core\Hashing;
+namespace Denosys\Hashing;
 
 /**
  * Argon2id hasher implementation.
