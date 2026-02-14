@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Denosys\\\\Hashing\\\\": "src/Hashing/"
+      "Denosys\\Hashing\\": "src/Hashing/"
     }
   },
   "config": {
